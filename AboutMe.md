@@ -1,6 +1,6 @@
-Hello my name ist Franzi
+<h1>Hello my name ist Franzi</h1>
 
-**I live with my familiy in Landshut
+**I live with my familiy in Landshut**
 
 <p>Haben Sie Geschwister? Sind Sie das älteste, mittlere oder jüngste Kind?<p>
 
