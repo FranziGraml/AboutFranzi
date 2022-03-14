@@ -1,16 +1,11 @@
 ## Franzi Graml
 
-<h1>Hello my name ist Franzi</h1>
+<h1>Hi there! My name ist Franzi :wave:</h1>
 
-**I live with my familiy in Landshut**
+**I am currently learning web development at Neue Fische Bootcamp**:muscle:
 
-<p>Haben Sie Geschwister? Sind Sie das älteste, mittlere oder jüngste Kind?</p>
-
-<p>Ja, ich habe Geschwister<p>
-
-- drei Brüder
-- ich bin die jüngste
+- Are you a dog or a cat person? 
+--> I am a dog person :dog:
 
 You can  watch my [xing](https://www.xing.com/profile/Franziska_Graml2) profile
-
 
