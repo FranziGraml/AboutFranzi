@@ -2,6 +2,7 @@ Hello my name ist Franzi
 
 I live with my familiy in Landshut
 
-Haben Sie Geschwister? Sind Sie das älteste, mittlere oder jüngste Kind?
+<p>Haben Sie Geschwister? Sind Sie das älteste, mittlere oder jüngste Kind?<p>
 
-Ja, ich habe Geschwister.
+<p>Ja, ich habe Geschwister</p>
+
