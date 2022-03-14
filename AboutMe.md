@@ -1,13 +1,11 @@
-<h1>Hello my name ist Franzi</h1>
+## Franzi Graml
 
-**I live with my familiy in Landshut**
+<h1>Hi there! My name ist Franzi :wave:</h1>
 
-<p>Haben Sie Geschwister? Sind Sie das älteste, mittlere oder jüngste Kind?<p>
+**I am currently learning web development at Neue Fische Bootcamp**:muscle:
 
-<p>Ja, ich habe Geschwister</p>
+- Are you a dog or a cat person? 
+--> I am a dog person :dog:
 
-- drei Brüder
-- ich bin die jüngste
-
-You can watch my [xing](https://www.xing.com/profile/Franziska_Graml2)profile
+You can  watch my [xing](https://www.xing.com/profile/Franziska_Graml2) profile
 
